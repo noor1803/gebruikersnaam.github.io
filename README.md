@@ -18,6 +18,8 @@ div { height: 200px }
 <p>toevoegen </p>
 </div>
 
+<body>
+
 
 <div>
   <a href="home">home</a> 
@@ -27,5 +29,7 @@ div { height: 200px }
   <a href="hotel">Best hotel</a>
   <a href="pictures">Foto's</a>
 </div>
+
+</body>
 
   
