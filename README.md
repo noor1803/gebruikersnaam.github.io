@@ -20,4 +20,12 @@ div { height: 200px }
 
 
 <div>
- <a href=
+  <a href="home">home</a> 
+  <a href="klimaat">Klimaat</a>
+  <a href="activiteiten">Wat kan je allemaal doen?</a>
+  <a href="dieren">Dieren op het eiland</a>
+  <a href="hotel">Best hotel</a>
+  <a href="pictures">Foto's</a>
+</div>
+
+  
