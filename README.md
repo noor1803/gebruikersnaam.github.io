@@ -17,8 +17,13 @@
 </div>
 
 <div style="padding-left:16px">
-
+  <h2>Bora Bora</h2>
+  <img src="pic_trulli.jpg" alt="Italian Trulli">
+  
+  
+       </div>
 </body>
+
 
 
   
