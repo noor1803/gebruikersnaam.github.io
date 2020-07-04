@@ -1,24 +1,9 @@
 <!DOCTYPE html> 
 <head>
-
-<style>
-body {
-  font-family: helvetica; sans serif;
-}
-div { height: 200px }
-</style>
-
-
+  <title>BoraBora</title>
+  <style>body{text align:center; background:black; color:white; font-family;helvetica;}</style>
 </head>
 
-<body>
-<h1>Bora Bora</h1>
-<div>
-
-<p>toevoegen </p>
-</div>
-
-<body>
 
 
 <div>
