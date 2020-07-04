@@ -7,8 +7,8 @@
 
 
 <body>
-<div class="topnav">
-  <a class="active href="home">home</a> 
+<div>
+  <a href="home">Home</a>
   <a href="klimaat">Klimaat</a>
   <a href="activiteiten">Wat kan je allemaal doen?</a>
   <a href="dieren">Dieren op het eiland</a>
